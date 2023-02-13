@@ -1,3 +1,7 @@
 First line
 Second line
+<<<<<<< HEAD
 Third line
+=======
+New line in besant
+>>>>>>> newbranch
